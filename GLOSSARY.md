@@ -38,7 +38,6 @@
 - **In plain words:** A python project toolbox.
 - **Used:** Create - python3 -m venv .venv
             Activate - `source .venv/bin/activate`
-            Deactivate - `source .venv/bin/deactivate`
 
 ## pip
 - **In plain words:** Handles python packages.
